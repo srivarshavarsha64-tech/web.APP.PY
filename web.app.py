@@ -1,5 +1,4 @@
 import streamlit as st
-from Dotenv import load dotenv
 import os
 import requests
 from bs4 import BeautifulSoup
